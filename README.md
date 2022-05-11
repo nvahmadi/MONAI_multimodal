@@ -1,2 +1,2 @@
 # MONAI_multimodal
-Multimodal fusion/Mulit-omics in MONAI
+Multimodal fusion/Multi-omics in MONAI
